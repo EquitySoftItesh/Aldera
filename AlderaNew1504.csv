@@ -1,0 +1,101 @@
+City,Type of Land,Area,Price,One Street,BackFrontStreets,Corner,Island,ElectricityGenerator,Yard,Width,Length,FrontYardArea,BackYardArea,RightYardArea,LeftYardArea,SeaSide,Floors,Basement
+Salmiya,Residential,500,175000,0,1,0,0,0,0,79,87,47,56,45,62,1,6,1
+Hateen,Commercial building,400,200000,0,1,1,0,0,1,86,88,58,70,92,77,1,5,0
+Mangaf,Residential,1500,1300000,0,0,0,0,1,0,95,87,56,58,63,83,1,5,0
+Qibla,Industrial,400,173000,1,1,1,0,0,1,62,68,67,91,77,94,1,2,0
+Sabah Al Ahmed Al Bahreya,Investment building,400,180000,0,0,0,1,1,0,100,95,76,54,88,84,0,7,0
+Surra,Residential,400,165000,1,1,1,0,0,0,42,47,61,68,49,91,1,7,1
+Alfintas,Investment building,645,185000,0,0,0,1,1,0,70,83,48,86,64,100,1,4,1
+Adailiya,Industrial,460,130000,0,1,0,1,0,1,93,75,52,87,82,94,0,2,1
+Bnaid Al-Qar,Residential,400,200000,1,0,1,1,0,0,81,44,74,87,88,96,1,7,1
+Egaila,Investment building,480,140000,0,1,1,0,1,1,62,89,71,87,41,62,1,2,1
+Riqqa,Investment building,400,160000,1,1,1,0,0,0,43,47,76,91,55,56,0,0,0
+Rawda,Residential,400,160000,0,1,0,0,1,0,49,92,82,51,66,46,0,6,1
+DAIYA,Industrial coupon,400,190000,1,1,0,1,0,0,91,81,43,41,71,40,1,3,0
+Jaber Al-Ali,investment lands,420,215000,1,0,1,0,1,0,72,86,87,69,80,97,1,4,0
+Al Masayel,Residential,412.5,265000,0,1,1,1,1,1,70,67,83,90,42,53,1,3,1
+Mutlaa,industrial land,416,215000,1,0,1,0,1,1,91,85,100,98,92,70,1,2,1
+Andalus,Residential,416,215000,1,0,1,0,0,1,43,94,48,43,67,93,1,2,1
+Mahboula,Residential,416,215000,0,0,0,0,1,1,100,72,72,69,84,58,1,6,1
+Al-ardiya6,Commercial building,416,215000,1,0,0,1,1,0,41,89,71,89,46,78,0,0,0
+Fnaitees,Residential,400,220000,0,1,1,1,1,1,40,97,44,85,40,86,0,7,0
+Sabah Al -Salem,investment lands,658,183000,0,1,1,0,1,0,49,51,59,51,72,69,0,7,1
+Shaab,industrial land,400,190000,1,1,0,1,0,0,94,82,56,45,44,56,0,4,1
+Alwafra,Residential,400,160000,0,1,0,1,0,0,60,45,52,60,49,98,0,6,1
+Nuzha,Residential,416,235000,1,0,0,1,0,1,97,81,47,67,75,96,0,5,1
+Jabriya,Residential,640,390000,0,0,1,1,0,1,64,50,80,73,44,94,1,0,1
+Ardhiya,investment lands,400,165000,1,1,1,1,0,1,48,84,40,91,81,70,1,3,0
+Rumaithiya,Residential,416,235000,0,1,1,0,1,1,44,92,44,92,93,96,1,0,0
+Farwaniya,Industrial coupon,400,163000,0,1,1,1,1,1,63,52,60,61,73,63,1,5,1
+Salwa,Residential,400,163000,1,0,1,1,0,0,67,67,74,84,60,77,0,0,0
+Sabah Al- Ahmad Marine City,investment lands,400,163000,0,0,0,0,0,0,64,92,52,96,56,58,1,6,0
+Mubarak Al-Abdulah,Industrial,500,370000,1,1,0,1,1,1,75,80,62,73,73,97,1,6,0
+Hawalli,Residential,750,180000,1,0,1,0,1,0,49,57,59,88,78,55,1,1,0
+Sabah Al Ahmed Al Bahreya,Residential,400,210000,0,1,1,1,0,0,40,81,57,45,51,81,1,5,0
+Aljabriya,Residential,400,170000,0,1,0,0,0,1,48,68,80,98,56,72,0,2,1
+Sabah Al Ahmed Al Bahreya,Investment building,400,52000,0,1,0,0,0,1,61,52,64,100,79,99,0,4,1
+Salmiya,Residential,532,86500,1,0,1,1,0,0,81,95,82,90,77,85,1,5,0
+Sabah Al Ahmed Al Bahreya,Commercial building,400,235000,1,0,1,0,0,1,44,89,97,84,94,59,0,6,1
+Hateen,Residential,400,168000,1,0,0,1,0,0,75,100,79,45,90,82,0,6,0
+Mangaf,Residential,550,190000,0,1,1,1,0,0,87,96,74,59,88,70,0,5,0
+Qibla,Residential,400,235000,1,0,0,0,0,1,100,59,76,80,70,42,0,0,1
+Surra,Residential,400,235000,0,1,1,0,1,1,46,51,47,69,76,92,0,6,0
+Alfintas,Residential,500,240000,0,1,1,0,1,0,71,99,45,67,74,86,1,1,1
+Adailiya,Residential,400,188000,1,0,1,0,0,1,42,65,40,65,60,80,0,5,0
+Bnaid Al-Qar,Residential,550,205000,1,1,1,1,1,1,86,74,64,43,86,66,1,5,0
+Egaila,Residential,400,170000,1,1,1,1,1,1,49,90,57,62,51,93,0,2,0
+Riqqa,Industrial,400,250000,0,1,0,0,1,1,68,43,99,85,94,72,1,4,0
+Rawda,Residential,400,255000,1,1,1,0,0,1,63,43,73,75,49,51,0,1,0
+DAIYA,Residential,400,196000,1,1,1,0,1,1,40,40,55,83,40,94,1,1,0
+Jaber Al-Ali,Residential,400,250000,1,0,1,0,0,1,52,70,69,89,75,74,0,3,1
+Al Masayel,Residential,647,184000,1,1,1,0,0,1,69,91,81,74,87,94,1,2,0
+Mutlaa,Residential,647,184000,1,1,1,0,0,1,69,80,83,53,46,44,1,7,1
+Andalus,Commercial building,500,255000,0,0,1,0,1,1,44,66,71,91,56,62,0,2,1
+Mahboula,Residential,400,226000,0,1,1,0,0,0,98,100,61,71,46,88,0,3,0
+Al-ardiya6,investment lands,647,184000,0,1,0,0,0,0,94,98,89,77,100,81,1,4,1
+Fnaitees,Residential,400,220000,1,0,1,1,1,0,81,67,89,71,52,67,0,0,0
+Sabah Al -Salem,Industrial,500,255000,0,1,1,1,1,0,68,51,80,47,57,72,0,1,1
+Shaab,Residential,400,225000,0,0,1,0,0,1,56,66,41,71,47,47,1,7,1
+Alwafra,Industrial coupon,400,225000,0,1,0,1,1,0,48,51,63,89,54,58,1,2,1
+Nuzha,Residential,400,225000,0,1,1,0,0,1,83,80,44,64,61,65,1,1,1
+Jabriya,Residential,526,180000,0,1,0,1,0,0,82,90,81,59,91,43,1,3,0
+Ardhiya,Residential,506,185000,1,0,1,1,1,1,88,65,50,73,95,98,0,7,0
+Rumaithiya,investment lands,400,219000,0,1,1,0,1,1,79,61,100,91,64,78,0,3,0
+Farwaniya,Residential,400,265000,0,0,1,1,0,1,82,41,53,98,98,85,0,5,0
+Salwa,Residential,526,190000,0,0,1,0,1,1,82,93,79,64,100,83,0,5,1
+Sabah Al- Ahmad Marine City,Residential,462,190000,0,1,0,0,0,1,46,89,42,94,80,67,1,3,1
+Mubarak Al-Abdulah,Residential,693,128205,0,1,0,0,1,1,85,82,66,97,94,89,0,4,0
+Hawalli,Residential,506,194000,0,0,1,0,1,1,100,41,97,60,55,89,1,6,0
+Sabah Al Ahmed Al Bahreya,Residential,400,228000,1,1,0,0,1,0,58,94,77,60,72,57,0,6,1
+Aljabriya,Residential,400,235000,0,1,1,1,0,1,70,84,71,68,44,46,1,3,0
+Sabah Al Ahmed Al Bahreya,Residential,400,222000,0,1,1,1,0,0,93,71,80,95,81,44,1,3,1
+Salmiya,investment lands,460,203000,0,0,0,1,0,0,46,62,90,72,84,56,1,6,1
+Hateen,Residential,17,59000,1,1,1,0,1,0,91,46,75,98,68,67,1,0,1
+Mangaf,Residential,506,194000,0,0,1,0,1,1,86,85,56,60,100,54,0,4,1
+Qibla,Commercial building,400,223000,0,0,1,0,0,1,70,61,100,81,92,69,1,7,0
+Surra,Residential,526,198000,1,0,0,1,0,0,64,67,59,92,69,80,0,2,0
+Alfintas,Residential,490,190000,1,0,1,1,0,0,96,50,100,95,73,72,1,5,0
+Adailiya,Residential,379.5,325000,1,1,0,0,1,0,88,70,82,78,64,62,1,0,0
+Bnaid Al-Qar,Residential,375,285000,1,1,0,0,1,0,55,69,97,83,83,50,0,1,0
+Egaila,investment lands,450,200000,0,0,1,1,1,0,99,53,48,51,66,42,1,6,1
+Riqqa,Residential,500,260000,1,1,1,0,1,0,64,71,86,97,96,55,0,2,0
+Rawda,Residential,850,157250,0,1,1,1,1,0,89,46,55,68,78,91,0,5,1
+DAIYA,Industrial,1737,320000,1,1,0,0,1,1,68,66,58,89,90,96,0,0,0
+Jaber Al-Ali,Residential,100,130000,0,0,0,0,1,0,43,58,100,63,60,41,1,7,1
+Al Masayel,investment lands,400,220000,0,1,0,0,1,1,87,53,89,74,68,63,0,6,0
+Mutlaa,Residential,570,255000,1,1,0,0,1,1,67,65,90,78,70,67,0,0,0
+Andalus,Residential,400,300000,1,0,1,1,1,1,87,85,65,71,56,49,1,3,0
+Mahboula,Residential,465,198000,0,1,1,0,0,1,81,50,61,85,85,94,1,7,0
+Al-ardiya6,investment lands,493,295000,0,1,1,0,1,0,84,98,60,43,59,75,1,5,0
+Fnaitees,Residential,450,191000,1,0,0,0,1,0,59,100,43,60,73,73,0,7,1
+Sabah Al -Salem,Residential,647,240000,0,1,0,1,0,0,78,55,94,61,98,73,0,5,1
+Shaab,Residential,490,205000,0,1,1,0,1,0,40,99,52,99,69,57,0,5,1
+Alwafra,Residential,400,220000,1,0,0,0,0,1,81,96,58,58,99,79,1,0,0
+Nuzha,Residential,459,198000,1,1,1,0,1,1,97,90,78,40,53,91,1,1,0
+Jabriya,Residential,400,220000,1,0,0,0,0,0,54,60,78,96,44,86,0,1,0
+Ardhiya,Residential,450,205000,0,0,0,0,0,0,63,87,49,46,54,40,1,3,1
+Rumaithiya,Residential,450,200000,0,0,0,1,0,0,58,40,44,53,41,66,1,0,0
+Farwaniya,Industrial,452,138000,1,0,1,0,0,1,55,54,86,97,57,74,1,1,1
+Salwa,Residential,500,445000,0,1,0,1,1,1,58,61,44,41,94,100,0,4,0
+Sabah Al- Ahmad Marine City,Residential,1000,1150000,0,0,1,1,1,0,85,73,83,46,45,41,0,4,0
+Mubarak Al-Abdulah,Industrial,875,1050000,1,0,1,0,0,1,87,71,52,67,69,99,0,6,0
